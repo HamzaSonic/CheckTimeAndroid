@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckTime</string>
+
+    <string-array name="diabetesTimes">
+        <item>After Meal</item>
+        <item>Before Meal</item>
+        <item>Morning</item>
+
+    </string-array>
+</resources>
